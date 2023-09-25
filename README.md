@@ -1,6 +1,6 @@
 # CLARA - SaGC dataset code
 
-Before you run, please set your key in key/key.txt file
+**Before you run, please set your key in key/key.txt file**
 
 ## Uncertainty Quantification
 To run the uncertainty quantification run
