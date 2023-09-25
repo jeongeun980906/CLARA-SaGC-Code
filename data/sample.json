@@ -1,0 +1,369 @@
+{
+    "1":{
+        "floorplan":["kitchen", "living room", "bedroom"],
+        "objects":["water", "bacon","bread","pan","coffee","table"],
+        "people":["person wearing blue shirt","person wearing white shirt", "person wearing red shirt"],
+        "agent_1":{
+            "goal":["make coffee",
+                    "I want a toast",
+                    "I am thirsty"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_2":{
+            "goal":["clean kitchen",
+                    "I spilled the water on the table",
+                    "There is a trash on the bedroom"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_3":{
+            "goal":["person wearing blue shirt just worked out",
+                    "person wearing white shirt looks tired",
+                    "person wearing red shirt came back from gym"],
+            "label":[       
+                0,0,0
+            ]
+        }
+    },
+    "2":{
+        "floorplan":["kitchen", "living room", "bedroom", "bathroom"],
+        "objects":[ "bacon","bread","pan","coffee","table"],
+        "people":["person wearing yellow shirt","person wearing white shirt", 
+                "person wearing black shirt"],
+        "agent_1":{
+            "goal":["She looks tired",
+                    "I want a toast",
+                    "I am hungry"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_2":{
+            "goal":["clean kitchen",
+                    "I spilled the coffee on the table",
+                    "There is a trash on the bathroom"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_3":{
+            "goal":["person wearing yellow shirt just worked out",
+                    "person wearing white shirt looks tired",
+                    "person wearing black shirt came back from gym"],
+            "label":[       
+                0,0,0
+            ]
+        }
+    },
+    "3":{
+        "floorplan":["kitchen", "living room", "bathroom"],
+        "objects":[ "sink","pan","coffee","table","bread"],
+        "people":["person wearing yellow shirt","person wearing white shirt", 
+                "person wearing black shirt"],
+        "agent_1":{
+            "goal":["person wearing blue shirt looks tired",
+                    "I want a coffee",
+                    "I am hungry"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_2":{
+            "goal":["clean kitchen",
+                    "clean the sink",
+                    "There is a trash on the bathroom"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_3":{
+            "goal":["person wearing yellow shirt wants massage",
+                    "person wearing white shirt looks tired",
+                    "person wearing black shirt came back from gym"],
+            "label":[       
+                0,0,0
+            ]
+        }
+    },
+    "4":{
+        "floorplan":["kitchen", "office", "desk for students","workspace for robots"],
+        "objects":[ "coffee","table","bread","desk","robot"],
+        "people":["person wearing yellow shirt","person wearing white shirt", 
+                "person wearing black shirt","person wearing blue shirt"],
+        "agent_1":{
+            "goal":["person wearing blue shirt looks tired",
+                    "I want a coffee",
+                    "I am hungry"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_2":{
+            "goal":["clean kitchen",
+                    "clean the desk",
+                    "There is a trash on the worksapce"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_3":{
+            "goal":["person wearing yellow shirt wants massage",
+                    "person wearing white shirt looks tired",
+                    "person wearing blue shirt came back from gym"],
+            "label":[       
+                0,0,0
+            ]
+        }
+    },
+    "5":{
+        "floorplan":["kitchen", "office", "desk for students","workspace for robots"],
+        "objects":[ "coffee","table","bread","desk","robot","water"],
+        "people":["person wearing yellow shirt","person wearing white shirt", 
+                "person wearing black shirt","person wearing blue shirt"],
+        "agent_1":{
+            "goal":["person wearing blue shirt looks tired",
+                    "I just worked out help me",
+                    "I am thirsty"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_2":{
+            "goal":["clean workspace",
+                    "clean the desk",
+                    "There is a trash on the office"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_3":{
+            "goal":["person wearing yellow shirt wants massage",
+                    "person wearing white shirt looks tired",
+                    "person wearing black shirt came back from gym"],
+            "label":[       
+                0,0,0
+            ]
+        }
+    },
+    "6":{
+        "floorplan":["kitchen", "office", "meeting room","workspace for robots"],
+        "objects":[ "coffee","table","bread","desk","robot","water","bacon",
+                    "sasauge","apple"],
+        "people":["person wearing yellow shirt","person wearing white shirt", 
+                "person wearing black shirt","person wearing brown shirt"],
+        "agent_1":{
+            "goal":["make meal consisted of bacon and bread",
+                    "I just worked out help me",
+                    "I am thirsty"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_2":{
+            "goal":["wipe the table",
+                    "clean the meeting room",
+                    "There is a trash on the office"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_3":{
+            "goal":["person wearing yellow shirt wants massage",
+                    "person wearing white shirt looks tired",
+                    "person wearing black shirt came back from gym"],
+            "label":[       
+                0,0,0
+            ]
+        }
+    },
+    "7":{
+        "floorplan":["kitchen", "office", "meeting room","desk for students",
+                    "workspace for robots"],
+        "objects":[ "coffee","table","bread","desk","robot","water",
+                        "bacon","pan","banana","apple"],
+        "people":["person wearing yellow shirt","person wearing white shirt", 
+                "person wearing black shirt","person wearing brown shirt"],
+        "agent_1":{
+            "goal":["make breakfast consisted of bacon, bread, and coffee",
+                    "I just worked out help me",
+                    "cook a meal with bacon and banana"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_2":{
+            "goal":["wipe the table",
+                    "clean the meeting room",
+                    "There is a trash on the office"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_3":{
+            "goal":["person wearing yellow shirt wants massage",
+                    "person wearing white shirt looks tired",
+                    "person wearing brown shirt needs massage"],
+            "label":[       
+                0,0,0
+            ]
+        }
+    },
+    "8":{
+        "floorplan":["kitchen", "office", "meeting room","gym"],
+        "objects":[ "coffee","table","bread","desk","buns","water",
+                        "bacon","pan","banana","apple"],
+        "people":["person wearing gray shirt","person wearing white shirt", 
+                "person wearing black shirt","person wearing brown shirt"],
+        "agent_1":{
+            "goal":["make breakfast consisted of bacon, bread, and coffee",
+                    "I just worked out help me",
+                    "cook a meal with apple and bread"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_2":{
+            "goal":["wipe the table",
+                    "clean the meeting room",
+                    "There is a trash on the office"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_3":{
+            "goal":["person wearing gray shirt wants massage",
+                    "person wearing white shirt looks tired",
+                    "person wearing brown shirt needs massage"],
+            "label":[       
+                0,0,0
+            ]
+        }
+    },
+    "9":{
+        "floorplan":["kitchen", "office", "meeting room","gym"],
+        "objects":[ "coffee","table","bread","desk","buns","water",
+                        "bacon","pan","banana","egg"],
+        "people":["person wearing gray shirt","person wearing white shirt", 
+                "person wearing blue shirt","person wearing brown shirt"],
+        "agent_1":{
+            "goal":["make breakfast consisted of bacon, bread, and egg",
+                    "I am thirsty",
+                    "cook a meal with apple and bread"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_2":{
+            "goal":["wipe the table",
+                    "clean the meeting room",
+                    "There is a trash on the gym"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_3":{
+            "goal":["person wearing gray shirt wants massage",
+                    "person wearing white shirt looks tired",
+                    "person wearing blue shirt needs massage"],
+            "label":[       
+                0,0,0
+            ]
+        }
+    },
+    "10":{
+        "floorplan":["kitchen", "office", "meeting room","gym"],
+        "objects":[ "coffee","table","bread","desk","buns","water",
+                        "bacon","pan","banana","apple"],
+        "people":["person wearing gray shirt","person wearing white shirt", 
+                "person wearing black shirt","person wearing brown shirt"],
+        "agent_1":{
+            "goal":["make breakfast consisted of bacon, bread, and coffee",
+                    "I just worked out help me",
+                    "cook a meal with apple, bun and bacon"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_2":{
+            "goal":["wipe the table",
+                    "clean the meeting room",
+                    "There is a trash on the office"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_3":{
+            "goal":["person wearing gray shirt wants massage",
+                    "person wearing white shirt looks tired",
+                    "person wearing brown shirt needs massage"],
+            "label":[       
+                0,0,0
+            ]
+        }
+    },
+    "11":{
+        "floorplan":["bedroom","living room","kitchen","bathroom"],
+        "objects":[ "coffee","table","bread","desk","buns","water",
+                        "bacon","pan","banana","apple"],
+        "people":["person wearing gray shirt","person wearing white shirt", 
+                "person wearing black shirt","person wearing brown shirt"],
+        "agent_1":{
+            "goal":["make breakfast consisted of bacon, bread, and coffee",
+                    "I want a cup of coffee",
+                    "cook a meal with apple, bun and bacon"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_2":{
+            "goal":["wipe the table",
+                    "clean the living room",
+                    "There is a trash on the bathroom"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_3":{
+            "goal":["person wearing gray shirt wants massage",
+                    "person wearing white shirt looks tired",
+                    "person wearing brown shirt needs massage"],
+            "label":[       
+                0,0,0
+            ]
+        }
+    },
+    "12":{
+        "floorplan":["bedroom","living room","kitchen","bathroom"],
+        "objects":[ "coffee","table","bread","desk","buns","water",
+                        "bacon","pan","banana","apple"],
+        "people":["person wearing gray shirt","person wearing white shirt", 
+                "person wearing black shirt","person wearing blue shirt"],
+        "agent_1":{
+            "goal":["make breakfast consisted of bacon, bread, and coffee",
+                    "I want a cup of water",
+                    "cook a meal with apple, bun and bacon"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_2":{
+            "goal":["wipe the table",
+                    "clean the living room",
+                    "There is a trash on the bathroom"],
+            "label":[       
+                0,0,0
+            ]
+        },
+        "agent_3":{
+            "goal":["person wearing gray shirt wants massage",
+                    "person wearing white shirt looks tired",
+                    "person wearing blue shirt needs massage"],
+            "label":[       
+                0,0,0
+            ]
+        }
+    }
+}
